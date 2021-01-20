@@ -54,6 +54,8 @@ body{
 .head-section p{
     color: var(--neutral-Grayblue-color);
     width: 95%;
+    line-height: 1.6rem;
+    
 }
 
 .first-section{
